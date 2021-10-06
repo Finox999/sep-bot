@@ -7,7 +7,7 @@
     "lib": "lib"
   },
   "dependencies": {
-    "@adiwajshing/baileys": "git+https://github.com/Adiwajshing/baileys.git",
+    "@adiwajshing/baileys": "github:adiwajshing/baileys",
     "async": "^2.6.3",
     "awesome-phonenumber": "^2.48.0",
     "axios": "^0.21.4",
@@ -29,7 +29,6 @@
     "fluent-ffmpeg": "^2.1.2",
     "g-i-s": "^2.1.6",
     "git": "^0.1.5",
-    "git+": "adiwajshing/baileys",
     "got": "^11.8.2",
     "hxz-api": "^1.0.1",
     "image-to-base64": "^2.2.0",
